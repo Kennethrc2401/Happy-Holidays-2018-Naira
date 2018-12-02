@@ -1,0 +1,65 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps');
+
+/* General Styles */
+
+html {
+	cursor: auto;
+}
+
+html, body {
+	font-size: 16px;
+}
+
+header {
+	padding-bottom: 3em;
+}
+
+h1 {
+	padding-top: 30px;
+	font-size: 70px;
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+body {
+	background-image: url("./../images/Holiday-Season-2017.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+main {
+	
+}
+
+
+/* Greeting Section */
+.greeting {
+	color: #ff0000;
+	padding-top: 2em;
+	padding-bottom: 17.5em;
+}
+
+.greetingLetter {
+	color: #ffffff;
+	background-color: #000000;
+	opacity: 0.5;
+}
+
+
+/* Text Alignments */
+.align-right {
+	text-align: right;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.align-left {
+	text-align: left;
+}
+
+/* Footer */
+footer {
+	color: silver;
+}
